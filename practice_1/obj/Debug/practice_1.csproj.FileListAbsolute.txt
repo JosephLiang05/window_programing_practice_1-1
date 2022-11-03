@@ -1,0 +1,7 @@
+E:\Joseph\Documents\Visual Studio 2017\source\repos\Window_Programing\practice_1\practice_1\bin\Debug\practice_1.exe.config
+E:\Joseph\Documents\Visual Studio 2017\source\repos\Window_Programing\practice_1\practice_1\bin\Debug\practice_1.exe
+E:\Joseph\Documents\Visual Studio 2017\source\repos\Window_Programing\practice_1\practice_1\bin\Debug\practice_1.pdb
+E:\Joseph\Documents\Visual Studio 2017\source\repos\Window_Programing\practice_1\practice_1\obj\Debug\practice_1.csprojAssemblyReference.cache
+E:\Joseph\Documents\Visual Studio 2017\source\repos\Window_Programing\practice_1\practice_1\obj\Debug\practice_1.csproj.CoreCompileInputs.cache
+E:\Joseph\Documents\Visual Studio 2017\source\repos\Window_Programing\practice_1\practice_1\obj\Debug\practice_1.exe
+E:\Joseph\Documents\Visual Studio 2017\source\repos\Window_Programing\practice_1\practice_1\obj\Debug\practice_1.pdb
